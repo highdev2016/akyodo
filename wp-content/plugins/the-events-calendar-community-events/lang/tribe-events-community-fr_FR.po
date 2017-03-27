@@ -1,0 +1,1123 @@
+# Tribe Community Events by Modern Tribe, Inc.
+# Copyright (C) Modern Tribe, Inc.
+# This file is distributed under the same license as the Tribe Community Events package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tribe Community Events\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-26 12:55-0800\n"
+"PO-Revision-Date: 2013-06-26 12:55-0800\n"
+"Last-Translator: Modern Tribe, Inc. <pro@tri.be>\n"
+"Language-Team: Modern Tribe, Inc. <pro@tri.be>\n"
+"Language: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ./\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../tribe-community-events.php:60
+msgid "The Events Calendar"
+msgstr "Agenda"
+
+#: ../tribe-community-events.php:61
+#, php-format
+msgid ""
+"To begin using The Events Calendar: Community Events, please install the "
+"latest version of <a href=\"%s\" class=\"thickbox\" title=\"%s\">The Events "
+"Calendar</a>."
+msgstr ""
+
+#: ../admin-views/community-options-template.php:37
+msgid "Placed in the Trash"
+msgstr ""
+
+#: ../admin-views/community-options-template.php:38
+msgid "Permanently Deleted"
+msgstr ""
+
+#: ../admin-views/community-options-template.php:45
+msgid "No Default"
+msgstr "Pas de défaut"
+
+#: ../admin-views/community-options-template.php:54
+msgid "Use New Venue/No Default"
+msgstr "Utiliser un nouveau lieu/Pas de défaut"
+
+#
+#: ../admin-views/community-options-template.php:70
+msgid "Community Events Settings"
+msgstr ""
+
+#: ../admin-views/community-options-template.php:75
+#, php-format
+msgid ""
+"<p>Community Events enables users to submit events through a form on your "
+"site. Whether soliciting contributions from anonymous users or registered "
+"members, you have complete editorial control over what makes it onto the "
+"calendar.</p><p>Before jumping in, make sure you've checked out our <a href="
+"\"%s\">Community Events new user primer</a>: it features both videos and "
+"written steps covering how the plugin works and what the different options "
+"can do to enhance your site."
+msgstr ""
+
+#: ../admin-views/community-options-template.php:85
+msgid "General"
+msgstr "Général"
+
+#: ../admin-views/community-options-template.php:91
+msgid "Allow anonymous submissions"
+msgstr "Autoriser les soumissions anonymes"
+
+#: ../admin-views/community-options-template.php:92
+msgid ""
+"Check this box to allow users to submit events without having a WordPress "
+"account"
+msgstr ""
+
+#: ../admin-views/community-options-template.php:100
+msgid "Use visual editor for event descriptions"
+msgstr "Utiliser l'éditeur visuel pour les descriptions des événements"
+
+#: ../admin-views/community-options-template.php:108
+msgid "Default status for submitted events"
+msgstr "Statut par défaut pour les événements soumis"
+
+#: ../admin-views/community-options-template.php:118
+msgid "Community rewrite slug"
+msgstr "Editer le slug de la communauté"
+
+#: ../admin-views/community-options-template.php:122
+msgid ""
+"The slug used for building the community events URL - it is appended to the "
+"main events slug. Your current community events URLs are"
+msgstr ""
+
+#: ../admin-views/community-options-template.php:135
+msgid "Alerts"
+msgstr "Alertes"
+
+#: ../admin-views/community-options-template.php:140
+msgid "Send an email alert when a new event is submitted"
+msgstr "Envoyer une alerte par email lorsqu'un événement vient d'être ajouté"
+
+#: ../admin-views/community-options-template.php:148
+msgid "Email addresses to be notified"
+msgstr "Adresses email où envoyer les notifications"
+
+#: ../admin-views/community-options-template.php:151
+msgid "One address per line"
+msgstr "Une adresse par ligne"
+
+#: ../admin-views/community-options-template.php:157
+msgid "Members"
+msgstr "Membres"
+
+#: ../admin-views/community-options-template.php:162
+msgid "Control the permissions for your logged in users. Allow them to:"
+msgstr ""
+
+#
+#: ../admin-views/community-options-template.php:167
+msgid "Edit their submissions"
+msgstr ""
+
+#
+#: ../admin-views/community-options-template.php:175
+msgid "Remove their submissions"
+msgstr ""
+
+#
+#: ../admin-views/community-options-template.php:183
+msgid "Deleted events should be:"
+msgstr ""
+
+#: ../admin-views/community-options-template.php:192
+#: ../lib/tribe-community-events.class.php:529
+#: ../lib/tribe-community-events.class.php:551
+#: ../lib/tribe-community-events.class.php:986
+#: ../lib/tribe-community-events.class.php:1630
+#: ../lib/tribe-community-events.class.php:1787 ../views/hooks/delete.php:35
+#: ../views/hooks/edit-organizer.php:50
+msgid "My Events"
+msgstr "Mon agenda"
+
+#: ../admin-views/community-options-template.php:197
+msgid "Events per page"
+msgstr "Evénements par page"
+
+#: ../admin-views/community-options-template.php:198
+msgid "This is the number of events displayed per page"
+msgstr "Il s'agit du nombre d'événements par page"
+
+#: ../admin-views/community-options-template.php:206
+msgid "Date/time format"
+msgstr "Format Date/Heure"
+
+#: ../admin-views/community-options-template.php:207
+#, fuzzy
+msgid "Help with date &amp; time formatting"
+msgstr "Aide pour le format de la Date &amp; Heure"
+
+#: ../admin-views/community-options-template.php:215
+msgid "Access Control"
+msgstr "Contrôle d'accès"
+
+#: ../admin-views/community-options-template.php:220
+#, fuzzy
+msgid "Block access to WordPress dashboard"
+msgstr "Bloquer l'accès à l'administration de WordPress"
+
+#: ../admin-views/community-options-template.php:221
+msgid "Also disables the admin bar"
+msgstr "Désactiver la barre d'administration"
+
+#: ../admin-views/community-options-template.php:229
+msgid "Roles to block"
+msgstr "Rôles à bloquer"
+
+#: ../admin-views/community-options-template.php:239
+msgid "Redirect URL"
+msgstr "URL de redirection"
+
+#: ../admin-views/community-options-template.php:240
+#, fuzzy
+msgid ""
+"Where users will be sent if they attempt to access the admin<br>Should be a "
+"full url e.g. <code>http://domain.com/path/</code> <br> Leave blank for "
+"homepage"
+msgstr ""
+"Page où les utilisateurs seront redirigés lors d'une tentative d'accès à "
+"l'administration<br>Il s'agit d'une url du type http://domaine.com/chemin/ "
+"<br> Laisser vide pour la page d'accueil"
+
+#: ../admin-views/community-options-template.php:250
+#, fuzzy
+msgid "PRO Options"
+msgstr "Options Version Pro"
+
+#: ../admin-views/community-options-template.php:256
+msgid "Default venue for submitted events"
+msgstr "Lieu par défaut pour les événements soumis"
+
+#: ../admin-views/community-options-template.php:267
+msgid "Default organizer for submitted events"
+msgstr "Organisateur par défaut pour les événements soumis"
+
+#: ../lib/tribe-community-events.class.php:268
+msgid "edit"
+msgstr "modifier"
+
+#: ../lib/tribe-community-events.class.php:269
+msgid "add"
+msgstr "ajouter"
+
+#: ../lib/tribe-community-events.class.php:270
+msgid "delete"
+msgstr "supprimer"
+
+#: ../lib/tribe-community-events.class.php:271
+msgid "list"
+msgstr "liste"
+
+#: ../lib/tribe-community-events.class.php:273
+msgid "venue"
+msgstr "lieu"
+
+#: ../lib/tribe-community-events.class.php:274
+msgid "organizer"
+msgstr "organisateur"
+
+#: ../lib/tribe-community-events.class.php:275
+msgid "event"
+msgstr "événement"
+
+#: ../lib/tribe-community-events.class.php:401
+#: ../lib/tribe-community-events.class.php:913
+msgid "Edit a Venue"
+msgstr "Editer un lieu"
+
+#: ../lib/tribe-community-events.class.php:423
+#: ../lib/tribe-community-events.class.php:916
+msgid "Edit an Organizer"
+msgstr "Editer un organisateur"
+
+#: ../lib/tribe-community-events.class.php:444
+#: ../lib/tribe-community-events.class.php:910
+msgid "Edit an Event"
+msgstr "Editer un événement"
+
+#: ../lib/tribe-community-events.class.php:466
+msgid "Redirect"
+msgstr "Rediriger"
+
+#: ../lib/tribe-community-events.class.php:487
+#: ../lib/tribe-community-events.class.php:1008
+msgid "Submit an Event"
+msgstr "Soumettre un événement"
+
+#: ../lib/tribe-community-events.class.php:508
+#: ../lib/tribe-community-events.class.php:895
+msgid "Remove an Event"
+msgstr "Supprimer un événement"
+
+#: ../lib/tribe-community-events.class.php:613
+msgid "Not found."
+msgstr "Introuvable."
+
+#: ../lib/tribe-community-events.class.php:747
+msgid ""
+"Community Events requires non-default (pretty) permalinks to be enabled or "
+"the [tribe_community_events] shortcode to exist on a page."
+msgstr ""
+"L'agenda des événemens requiert l'utilisation de permaliens personnalisés "
+"pour être utiliser avec le shortcode [tribe_community_events] qui sera "
+"utilisé sur une page."
+
+#: ../lib/tribe-community-events.class.php:824
+#: ../lib/tribe-community-events.class.php:829
+msgid "Delete"
+msgstr "Supprimer"
+
+#: ../lib/tribe-community-events.class.php:829
+msgid "Are you sure?"
+msgstr "Confirmer?"
+
+#: ../lib/tribe-community-events.class.php:898
+msgid "Remove a Venue"
+msgstr "Supprimer un lieu"
+
+#: ../lib/tribe-community-events.class.php:901
+msgid "Remove an Organizer"
+msgstr "Supprimer un organisateur"
+
+#: ../lib/tribe-community-events.class.php:904
+#: ../lib/tribe-community-events.class.php:919
+msgid "Unknown Post Type"
+msgstr "Entrée inconnue"
+
+#: ../lib/tribe-community-events.class.php:1046
+msgid "This shortcode can only be used in pages."
+msgstr "Ce shortcode peut seulement être utilisé sur les pages."
+
+#
+#: ../lib/tribe-community-events.class.php:1293
+msgid "Community Events Submission"
+msgstr ""
+
+#: ../lib/tribe-community-events.class.php:1299
+msgid "Event Organizer"
+msgstr "Agenda des événements"
+
+#: ../lib/tribe-community-events.class.php:1300
+msgid "Event Venue"
+msgstr "Lieu"
+
+#
+#: ../lib/tribe-community-events.class.php:1301
+msgid "Description"
+msgstr ""
+
+#: ../lib/tribe-community-events.class.php:1302
+msgid "Review Event"
+msgstr "Modifier l'événement"
+
+#: ../lib/tribe-community-events.class.php:1402
+msgid "Trashed Event #"
+msgstr "Evénement envoyé dans la corbeille #"
+
+#: ../lib/tribe-community-events.class.php:1405
+msgid "Deleted Event #"
+msgstr "Evénement supprimé #"
+
+#: ../lib/tribe-community-events.class.php:1414
+#, php-format
+msgid "Removed occurence %s from Event #"
+msgstr "Occurence supprimée %s pour l'événement #"
+
+#: ../lib/tribe-community-events.class.php:1417
+#, php-format
+msgid "This event (#%s) does not appear to exist."
+msgstr "Cet événement (#%s) n'existe pas."
+
+#: ../lib/tribe-community-events.class.php:1420
+msgid "You do not have permission to delete this event."
+msgstr "Vous n'avez pas la permission de supprimer cet événement."
+
+#: ../lib/tribe-community-events.class.php:1430
+msgctxt "As in \"go back to previous page\""
+msgid "Back"
+msgstr ""
+
+#: ../lib/tribe-community-events.class.php:1467
+#, php-format
+msgid ""
+"%sWarning:%s You are editing a recurring event. All changes will be applied "
+"to the entire series."
+msgstr ""
+"%sAttention:%s Vous éditez un événement récurrent. Tout changement sera "
+"appliqué sur la totalité de l'événement."
+
+#: ../lib/tribe-community-events.class.php:1488
+msgid "Event not found."
+msgstr "Introuvable."
+
+#: ../lib/tribe-community-events.class.php:1497
+msgid "Please log in first."
+msgstr "Merci de vous connecter."
+
+#: ../lib/tribe-community-events.class.php:1507
+msgid "You do not have permission to edit this event."
+msgstr "Vous n'avez pas la permission de modifier cet événement."
+
+#: ../lib/tribe-community-events.class.php:1530
+msgid "Event updated."
+msgstr "OK : événement modifié."
+
+#: ../lib/tribe-community-events.class.php:1534
+#: ../lib/tribe-community-events.class.php:1564
+#, php-format
+msgid ""
+"The original event is saved; recurrences not saved. Please reduce the number "
+"of recurrences to no more than %s.%s"
+msgstr ""
+
+#: ../lib/tribe-community-events.class.php:1537
+#: ../lib/tribe-community-events.class.php:1568
+msgid "Edit event"
+msgstr "Editer"
+
+#: ../lib/tribe-community-events.class.php:1538
+#: ../lib/tribe-community-events.class.php:1570
+msgid "Submit another event"
+msgstr "Soumettre un autre evenement"
+
+#: ../lib/tribe-community-events.class.php:1544
+msgid "There was a problem saving your event, please try again."
+msgstr "Erreur, merci de retenter."
+
+#: ../lib/tribe-community-events.class.php:1560
+msgid "Event submitted."
+msgstr "OK : événement soumis."
+
+#: ../lib/tribe-community-events.class.php:1581
+msgid "Event title and description are required."
+msgstr "Merci de renseigner un titre et une description."
+
+#: ../lib/tribe-community-events.class.php:1584
+msgid "Event description is required."
+msgstr "Description requise."
+
+#: ../lib/tribe-community-events.class.php:1587
+msgid "Event title is required."
+msgstr "Titre requis."
+
+#: ../lib/tribe-community-events.class.php:1590
+#: ../lib/tribe-community-events.class.php:1602
+msgid "There was a problem submitting your event, please try again."
+msgstr "Erreur, merci de retenter."
+
+#: ../lib/tribe-community-events.class.php:1599
+msgid "Please check the box below to prove you are not an evil spammer."
+msgstr "Merci de cocher la case afin de prouver votre identité."
+
+#: ../lib/tribe-community-events.class.php:1633
+#: ../lib/tribe-community-events.class.php:1790 ../views/hooks/delete.php:36
+#: ../views/hooks/edit-organizer.php:52 ../views/hooks/event-list.php:90
+msgid "Not"
+msgstr "Non"
+
+#: ../lib/tribe-community-events.class.php:1633
+#: ../lib/tribe-community-events.class.php:1790 ../views/hooks/delete.php:36
+#: ../views/hooks/edit-organizer.php:52 ../views/hooks/event-list.php:90
+msgid "Log Out"
+msgstr "Se déconnecter"
+
+#: ../lib/tribe-community-events.class.php:1718
+#: ../lib/tribe-community-events.class.php:1837
+#: ../lib/tribe-community-events.class.php:1932
+msgid "This feature is not currently enabled."
+msgstr "Cette caractéristique n'est actuellement pas autorisée."
+
+#: ../lib/tribe-community-events.class.php:1723
+msgid "You do not have permission to edit this venue."
+msgstr "Vous n'avez pas l'autorisation d'éditer ce lieu."
+
+#: ../lib/tribe-community-events.class.php:1749
+msgid "Venue updated."
+msgstr "Lieu actualisé."
+
+#: ../lib/tribe-community-events.class.php:1760
+msgid "Venue name cannot be blank."
+msgstr "Merci de renseigner le lieu de l'événement."
+
+#: ../lib/tribe-community-events.class.php:1765
+msgid "There was a problem updating your venue, please try again."
+msgstr "Erreur dans la modification du lieu, merci de réessayer."
+
+#: ../lib/tribe-community-events.class.php:1770
+msgid "Venue not found."
+msgstr "Lieu introuvable."
+
+#: ../lib/tribe-community-events.class.php:1807
+msgid "Please log in to edit this venue"
+msgstr "Merci de vous connecter pour modifier ce lieu"
+
+#: ../lib/tribe-community-events.class.php:1840
+msgid "You do not have permission to edit this organizer."
+msgstr "Vous n'avez pas la permission de modifier cela."
+
+#: ../lib/tribe-community-events.class.php:1860
+msgid "Organizer updated."
+msgstr "Organisateur modifié."
+
+#: ../lib/tribe-community-events.class.php:1872
+msgid "Organizer name cannot be blank."
+msgstr "Champs vide !"
+
+#: ../lib/tribe-community-events.class.php:1877
+msgid "There was a problem updating this organizer, please try again."
+msgstr "Erreur, merci de retenter."
+
+#: ../lib/tribe-community-events.class.php:1882
+msgid "Organizer not found."
+msgstr "Introuvable."
+
+#: ../lib/tribe-community-events.class.php:1904
+msgid "Please log in to edit this organizer"
+msgstr "Merci de vous connecter pour éditer."
+
+#: ../lib/tribe-community-events.class.php:1975
+msgid "Please log in to view your events"
+msgstr "Merci de vous connecter pour voir vos soumissions."
+
+#: ../lib/tribe-community-events.class.php:2133
+msgid "I am not an evil spammer"
+msgstr "Je suis un humain, pas un robot !"
+
+#: ../lib/tribe-community-events.class.php:2560
+msgid "Community"
+msgstr "Communauté"
+
+#
+#: ../lib/tribe-community-events.class.php:2828
+msgid "Community: Submit Event"
+msgstr ""
+
+#
+#: ../lib/tribe-community-events.class.php:2836
+msgid "Community: My Events"
+msgstr ""
+
+#
+#: ../lib/tribe-community-events.class.php:2845
+msgid "Community Events"
+msgstr ""
+
+#: ../lib/tribe-community-events.class.php:2862
+msgid "Settings"
+msgstr ""
+
+#: ../vendor/pue-client/admin-views/license-key.view.php:9
+#: ../vendor/pue-client/admin-views/license-key.view.php:13
+#: ../vendor/pue-client/lib/pue_plugin_update_engine.class.php:185
+msgid "License Key"
+msgstr "Clé de licence"
+
+#: ../vendor/pue-client/admin-views/license-key.view.php:10
+msgid "A valid license key is required for support and updates."
+msgstr ""
+"Une clé de licence valide est requise pour bénéficier du support technique "
+"et des mises à jour."
+
+#: ../vendor/pue-client/admin-views/license-key.view.php:16
+msgid "Replace empty fields"
+msgstr ""
+
+#: ../vendor/pue-client/admin-views/license-key.view.php:25
+#: ../vendor/pue-client/lib/pue_plugin_update_engine.class.php:186
+msgid "A valid license key is required for support and updates"
+msgstr ""
+"Une clé de licence valide est requise pour bénéficier du support technique "
+"et des mises à jour."
+
+#: ../vendor/pue-client/lib/pue_plugin_update_engine.class.php:254
+msgid "License key(s) updated."
+msgstr "Clé(s) de licence mise(s) à jour."
+
+#: ../vendor/pue-client/lib/pue_plugin_update_engine.class.php:294
+msgid "Sorry, key validation server is not available."
+msgstr "Attention, le serveur ne répond pas à la validation de la clé."
+
+#: ../vendor/pue-client/lib/pue_plugin_update_engine.class.php:296
+msgid "Sorry, this key is expired."
+msgstr "Cette clé a expiré."
+
+#: ../vendor/pue-client/lib/pue_plugin_update_engine.class.php:298
+msgid "Sorry, this key is out of installs."
+msgstr "Cette clé n'est pas valable pour toute installation."
+
+#: ../vendor/pue-client/lib/pue_plugin_update_engine.class.php:300
+msgid "Sorry, this key is not valid."
+msgstr "Cette clé n'est pas valide."
+
+#: ../vendor/pue-client/lib/pue_plugin_update_engine.class.php:303
+#, php-format
+msgid "Valid Key! Expires on %s"
+msgstr "Clé valide ! Expiration le %s"
+
+#: ../vendor/pue-client/lib/pue_plugin_update_engine.class.php:307
+#, fuzzy, php-format
+msgid ""
+"Hmmm... something's wrong with this validator. Please contact <a href=\"%s"
+"\">support.</a>"
+msgstr ""
+"Hmmm... il semble qu'une erreur soit détectée. Merci de contacter <a href="
+"\"%s\">le support technique.</a>"
+
+#: ../vendor/tribe-support/tribe-support.class.php:54
+msgid "Send a support request for this site."
+msgstr "Envoyer une demande auprès du support technique pour ce site."
+
+#: ../vendor/wp-router/WP_Route.class.php:36
+#, php-format
+msgid "Missing %s"
+msgstr ""
+
+#: ../vendor/wp-router/WP_Route.class.php:63
+#, php-format
+msgid "Property not found: %s."
+msgstr ""
+
+#: ../vendor/wp-router/WP_Route.class.php:77
+#, php-format
+msgid "Invalid value for %s. Value may not be empty."
+msgstr ""
+
+#: ../vendor/wp-router/WP_Route.class.php:80
+#, php-format
+msgid "Invalid value for %1$s: %2$s. Value must be an array."
+msgstr ""
+
+#: ../vendor/wp-router/WP_Route.class.php:250
+msgid "You are not authorized to access this page"
+msgstr "Vous n'êtes pas autorisé à accéder à cette page"
+
+#: ../vendor/wp-router/WP_Route.class.php:251
+msgid "Access Denied"
+msgstr "Accès refusé"
+
+#: ../vendor/wp-router/WP_Router_Page.class.php:74
+msgid "WP Router Placeholder Page"
+msgstr "Erreur."
+
+#: ../vendor/wp-router/WP_Router_Utility.class.php:49
+#, php-format
+msgid "%1$s requires WordPress %2$s or higher and PHP %3$s or higher."
+msgstr "%1$s requiert WordPress %2$s ou plus et PHP %3$s ou plus."
+
+#: ../views/hooks/delete.php:34 ../views/hooks/event-list.php:66
+msgid "Add New"
+msgstr "Ajouter"
+
+#: ../views/hooks/edit-organizer.php:75
+msgid "Update Organizer"
+msgstr "Actualiser organisateur"
+
+#: ../views/hooks/edit-organizer.php:75
+msgid "Submit Organizer"
+msgstr "Soumettre un organisateur"
+
+#: ../views/hooks/edit-venue.php:63 ../views/hooks/form-venue.php:46
+msgid "Venue Name:"
+msgstr "Nom du lieu:"
+
+#: ../views/hooks/edit-venue.php:65 ../views/hooks/form.php:67
+#: ../views/hooks/form.php:92
+msgid "(required)"
+msgstr ""
+
+#: ../views/hooks/edit-venue.php:79
+msgid "Venue Description:"
+msgstr "Description du lieu:"
+
+#: ../views/hooks/edit-venue.php:112
+msgid "Update Venue"
+msgstr "Actualiser le lieu"
+
+#: ../views/hooks/edit-venue.php:112
+msgid "Submit Venue"
+msgstr "Soumettre un lieu"
+
+#: ../views/hooks/event-list.php:75
+msgid "Display"
+msgstr ""
+
+#: ../views/hooks/event-list.php:109
+msgid "Status"
+msgstr ""
+
+#: ../views/hooks/event-list.php:110
+msgid "Title"
+msgstr "Titre"
+
+#: ../views/hooks/event-list.php:111
+msgid "Organizer"
+msgstr "Organisateur"
+
+#: ../views/hooks/event-list.php:112
+msgid "Venue"
+msgstr "Lieu"
+
+#: ../views/hooks/event-list.php:113
+msgid "Category"
+msgstr "Categorie"
+
+#: ../views/hooks/event-list.php:115
+msgid "Recurring?"
+msgstr "Récurrent?"
+
+#: ../views/hooks/event-list.php:116
+msgid "Start Date"
+msgstr "Date de début"
+
+#: ../views/hooks/event-list.php:117
+msgid "End Date"
+msgstr "Date de fin"
+
+#: ../views/hooks/event-list.php:158
+msgid "View"
+msgstr "Voir"
+
+#: ../views/hooks/form-custom.php:43
+msgid "Event Custom Fields"
+msgstr "Champs personnalisés"
+
+#: ../views/hooks/form-meta.php:86
+msgid "Event Time &amp; Date"
+msgstr "Heure &amp; Date"
+
+#: ../views/hooks/form-meta.php:91
+msgid ""
+"You have changed the recurrence rules of this event. Saving the event will "
+"update all future events.  If you did not mean to change all events, then "
+"please refresh the page."
+msgstr ""
+"You have changed the recurrence rules of this event. Saving the event will "
+"update all future events.  If you did not mean to change all events, then "
+"please refresh the page."
+
+#: ../views/hooks/form-meta.php:95
+msgid "All day event?"
+msgstr "Dure toute la journée?"
+
+#: ../views/hooks/form-meta.php:102
+msgid "Start Date / Time:"
+msgstr "Début Date / Heure:"
+
+#: ../views/hooks/form-meta.php:106 ../views/hooks/form-meta.php:127
+msgid "YYYY-MM-DD"
+msgstr "DD-MM-YYYY"
+
+#: ../views/hooks/form-meta.php:124
+msgid "End Date / Time:"
+msgstr "Fin Date / Heure:"
+
+#: ../views/hooks/form-meta.php:159
+msgid "Event Location Details"
+msgstr "Détails du lieu"
+
+#: ../views/hooks/form-meta.php:177
+msgid "Show Google Maps Link:"
+msgstr "Montrer le lien Google Maps:"
+
+#: ../views/hooks/form-meta.php:191
+msgid "Show Google Map:"
+msgstr "Montrer la carte Google Map:"
+
+#: ../views/hooks/form-meta.php:217
+msgid "Event Organizer Details"
+msgstr "Détails organisateur"
+
+#: ../views/hooks/form-meta.php:248
+msgid "Event Cost"
+msgstr "Tarif"
+
+#: ../views/hooks/form-meta.php:251
+msgid "Currency Symbol:"
+msgstr ""
+
+#: ../views/hooks/form-meta.php:260
+msgid "Cost:"
+msgstr "Tarif:"
+
+#: ../views/hooks/form-meta.php:266
+msgid "Leave blank to hide the field. Enter a 0 for events that are free."
+msgstr ""
+"Laisser vide pour cacher le champs ou taper le chiffre 0 pour les événements "
+"gratuits."
+
+#: ../views/hooks/form-organizer.php:47
+msgid "Organizer Name"
+msgstr "Nom organisateur"
+
+#: ../views/hooks/form-organizer.php:59
+msgid "Phone"
+msgstr "Téléphone"
+
+#: ../views/hooks/form-organizer.php:70
+msgid "Website"
+msgstr "Site web"
+
+#: ../views/hooks/form-organizer.php:80
+msgid "Email"
+msgstr "Email"
+
+#: ../views/hooks/form-recurrence.php:97
+msgid "Recurrence:"
+msgstr "Récurrence:"
+
+#: ../views/hooks/form-recurrence.php:105
+msgid "None"
+msgstr "0"
+
+#: ../views/hooks/form-recurrence.php:106
+msgid "Every Day"
+msgstr "Tous les jours"
+
+#: ../views/hooks/form-recurrence.php:107
+msgid "Every Week"
+msgstr "Toutes les semaines"
+
+#: ../views/hooks/form-recurrence.php:108
+msgid "Every Month"
+msgstr "Tous les mois"
+
+#: ../views/hooks/form-recurrence.php:109
+msgid "Every Year"
+msgstr "Tous les ans"
+
+#: ../views/hooks/form-recurrence.php:110
+msgid "Custom"
+msgstr "Personnaliser"
+
+#: ../views/hooks/form-recurrence.php:114
+msgid "End"
+msgstr "Fin"
+
+#: ../views/hooks/form-recurrence.php:117
+msgid "On"
+msgstr "A"
+
+#: ../views/hooks/form-recurrence.php:118
+msgid "After"
+msgstr "Apres"
+
+#: ../views/hooks/form-recurrence.php:131
+msgid "You must select a recurrence end date"
+msgstr "Veuillez choisir une date de fin de recurrence"
+
+#: ../views/hooks/form-recurrence.php:140
+msgid "Frequency"
+msgstr "Frequence"
+
+#: ../views/hooks/form-recurrence.php:142
+msgid "Day(s)"
+msgstr "Jour(s)"
+
+#: ../views/hooks/form-recurrence.php:142
+msgid "Daily"
+msgstr "Journalier"
+
+#: ../views/hooks/form-recurrence.php:143
+msgid "Week(s) on:"
+msgstr "Semaine(s) en:"
+
+#: ../views/hooks/form-recurrence.php:143
+msgid "Weekly"
+msgstr "Mensuel"
+
+#: ../views/hooks/form-recurrence.php:144
+msgid "Month(s) on the:"
+msgstr "Mois :"
+
+#: ../views/hooks/form-recurrence.php:144
+msgid "Monthly"
+msgstr "Mensuel"
+
+#: ../views/hooks/form-recurrence.php:145
+msgid "Year(s) on:"
+msgstr "Annees(s):"
+
+#: ../views/hooks/form-recurrence.php:145
+msgid "Yearly"
+msgstr "Annuel"
+
+#: ../views/hooks/form-recurrence.php:148
+msgid "Every"
+msgstr "Chaque"
+
+#: ../views/hooks/form-recurrence.php:160
+msgid "M"
+msgstr "Lu"
+
+#: ../views/hooks/form-recurrence.php:161
+msgid "Tu"
+msgstr "Ma"
+
+#: ../views/hooks/form-recurrence.php:162
+msgid "W"
+msgstr "Me"
+
+#: ../views/hooks/form-recurrence.php:163
+msgid "Th"
+msgstr "Je"
+
+#: ../views/hooks/form-recurrence.php:164
+msgid "F"
+msgstr "Ve"
+
+#: ../views/hooks/form-recurrence.php:165
+msgid "Sa"
+msgstr "Sa"
+
+#: ../views/hooks/form-recurrence.php:166
+msgid "Su"
+msgstr "Di"
+
+#: ../views/hooks/form-recurrence.php:175
+#: ../views/hooks/form-recurrence.php:225
+msgid "First"
+msgstr "Premier"
+
+#: ../views/hooks/form-recurrence.php:176
+#: ../views/hooks/form-recurrence.php:226
+msgid "Second"
+msgstr "Second"
+
+#: ../views/hooks/form-recurrence.php:177
+#: ../views/hooks/form-recurrence.php:227
+msgid "Third"
+msgstr "Troisieme"
+
+#: ../views/hooks/form-recurrence.php:178
+#: ../views/hooks/form-recurrence.php:228
+msgid "Fourth"
+msgstr "Quatrieme"
+
+#: ../views/hooks/form-recurrence.php:179
+#: ../views/hooks/form-recurrence.php:229
+msgid "Last"
+msgstr "Dernier"
+
+#: ../views/hooks/form-recurrence.php:186
+#: ../views/hooks/form-recurrence.php:232
+msgid "Monday"
+msgstr "Lundi"
+
+#: ../views/hooks/form-recurrence.php:187
+#: ../views/hooks/form-recurrence.php:233
+msgid "Tuesday"
+msgstr "Mardi"
+
+#: ../views/hooks/form-recurrence.php:188
+#: ../views/hooks/form-recurrence.php:234
+msgid "Wednesday"
+msgstr "Mercredi"
+
+#: ../views/hooks/form-recurrence.php:189
+#: ../views/hooks/form-recurrence.php:235
+msgid "Thursday"
+msgstr "Jeudi"
+
+#: ../views/hooks/form-recurrence.php:190
+#: ../views/hooks/form-recurrence.php:236
+msgid "Friday"
+msgstr "Vendredi"
+
+#: ../views/hooks/form-recurrence.php:191
+#: ../views/hooks/form-recurrence.php:237
+msgid "Saturday"
+msgstr "Samedi"
+
+#: ../views/hooks/form-recurrence.php:192
+#: ../views/hooks/form-recurrence.php:238
+msgid "Sunday"
+msgstr "Dimanche"
+
+#: ../views/hooks/form-recurrence.php:194
+#: ../views/hooks/form-recurrence.php:240
+msgid "Day"
+msgstr "Jour"
+
+#: ../views/hooks/form-recurrence.php:204
+msgid "Jan"
+msgstr "Janv"
+
+#: ../views/hooks/form-recurrence.php:205
+msgid "Feb"
+msgstr "Fev"
+
+#: ../views/hooks/form-recurrence.php:206
+msgid "Mar"
+msgstr "Mars"
+
+#: ../views/hooks/form-recurrence.php:207
+msgid "Apr"
+msgstr "Avr"
+
+#: ../views/hooks/form-recurrence.php:208
+msgid "May"
+msgstr "Mai"
+
+#: ../views/hooks/form-recurrence.php:209
+msgid "Jun"
+msgstr "Juin"
+
+#: ../views/hooks/form-recurrence.php:213
+msgid "Jul"
+msgstr "Juil"
+
+#: ../views/hooks/form-recurrence.php:214
+msgid "Aug"
+msgstr "Aout"
+
+#: ../views/hooks/form-recurrence.php:215
+msgid "Sep"
+msgstr "Sep"
+
+#: ../views/hooks/form-recurrence.php:216
+msgid "Oct"
+msgstr "Oct"
+
+#: ../views/hooks/form-recurrence.php:217
+msgid "Nov"
+msgstr "Nov"
+
+#: ../views/hooks/form-recurrence.php:218
+msgid "Dec"
+msgstr "Dec"
+
+#: ../views/hooks/form-recurrence.php:223
+msgid "On the:"
+msgstr "Le:"
+
+#: ../views/hooks/form-venue.php:55
+msgid "Address:"
+msgstr "Adresse:"
+
+#: ../views/hooks/form-venue.php:63
+msgid "City:"
+msgstr "Ville:"
+
+#: ../views/hooks/form-venue.php:69
+msgid "Country:"
+msgstr "Pays:"
+
+#: ../views/hooks/form-venue.php:105
+msgid "State or Province:"
+msgstr "Etat ou Province:"
+
+#: ../views/hooks/form-venue.php:109
+msgid "Select a State:"
+msgstr "Selectionner un état:"
+
+#: ../views/hooks/form-venue.php:122
+msgid "Postal Code:"
+msgstr "Code postal:"
+
+#: ../views/hooks/form-venue.php:130
+msgid "Phone:"
+msgstr "Téléphone:"
+
+#: ../views/hooks/form.php:66
+msgid "Event Title:"
+msgstr "Titre"
+
+#: ../views/hooks/form.php:91
+msgid "Event Description:"
+msgstr "Description:"
+
+#
+#: ../views/hooks/form.php:121
+msgid "Event Categories:"
+msgstr ""
+
+#
+#: ../views/hooks/form.php:155
+msgid "Event Image"
+msgstr ""
+
+#: ../views/hooks/form.php:178
+msgid "Upload New"
+msgstr ""
+
+#: ../views/hooks/form.php:180
+msgid "Upload"
+msgstr ""
+
+#: ../views/hooks/form.php:188
+msgid "Images that are not png, jpg, or gif will not be uploaded."
+msgstr ""
+"Les images qui ne sont pas en png, jpg, ou gif ne seront pas prises en "
+"compte."
+
+#: ../views/hooks/form.php:216
+msgid "Update Event"
+msgstr "Actualiser"
+
+#: ../views/hooks/form.php:218
+msgid "Submit Event"
+msgstr "Soumettre"
+
+#: ../views/hooks/recurrence-dialog.php:41
+msgid "Which events do you wish to update?"
+msgstr "Quels événements voulez-vous modifier ?"
+
+#: ../views/hooks/recurrence-dialog.php:43
+msgid "Delete Recurring Event"
+msgstr "Supprimer les événements recurrents"
+
+#: ../views/hooks/recurrence-dialog.php:44
+msgid "Select your desired action"
+msgstr "Faites votre selection"
+
+#~ msgid "Requires WordPress 3.3 +"
+#~ msgstr "Requiert une version WordPress 3.3 et +"
+
+#~ msgid "Your current community events URLs are"
+#~ msgstr "Les URLs actuelles de l'agenda sont"
+
+#~ msgid ""
+#~ "Options to grant members (logged in users) access to their submitted "
+#~ "events"
+#~ msgstr ""
+#~ "Options d'autorisation des membres (connectés en tant qu'utilisateurs) "
+#~ "pour l'accès aux soumissions d'événements"
+
+#~ msgid "Use trash vs. delete when removing"
+#~ msgstr "Mettre les éléments dans la corbeille lors d'une suppression"
+
+#~ msgid "Pagination range"
+#~ msgstr "Pagination : rang"
+
+#~ msgid "How many pages to show on either side of the current page"
+#~ msgstr "Nombre de pages à afficher sur la page courante"
+
+#~ msgid "<h3>Description</h3>"
+#~ msgstr "<h3>Description</h3>"
+
+#~ msgid "License Key for %s"
+#~ msgstr "Clé de licence pour %s"
+
+#~ msgid "[X]"
+#~ msgstr "[X]"
+
+#~ msgid "@"
+#~ msgstr "@"

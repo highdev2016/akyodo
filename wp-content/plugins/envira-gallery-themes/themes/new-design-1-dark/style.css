@@ -1,0 +1,89 @@
+/* ==========================================================================
+   New Design 1 (Dark) Theme Styles
+   ========================================================================== */
+/**
+* overlay
+*/
+.envirabox-overlay.overlay-new-design-1-dark {
+  background: #000; }
+  .envirabox-overlay.overlay-new-design-1-dark .envirabox-nav {
+    background: #2b2b2b !important;
+    width: 8%;
+    max-width: 80px;
+    min-width: 60px; }
+    .envirabox-overlay.overlay-new-design-1-dark .envirabox-nav.envirabox-nav {
+      height: 100%; }
+    .envirabox-overlay.overlay-new-design-1-dark .envirabox-nav.envirabox-prev span, .envirabox-overlay.overlay-new-design-1-dark .envirabox-nav.envirabox-next span {
+      background-image: url("../new-design-1-dark/images/arrow.png");
+      background-repeat: no-repeat;
+      background-size: 13px 13px;
+      visibility: visible;
+      background-position: 0 5px;
+      left: 50%; }
+    .envirabox-overlay.overlay-new-design-1-dark .envirabox-nav.envirabox-prev span {
+      left: 40%; }
+    .envirabox-overlay.overlay-new-design-1-dark .envirabox-nav.envirabox-next span {
+      -moz-transform: scaleX(-1);
+      -o-transform: scaleX(-1);
+      -webkit-transform: scaleX(-1);
+      transform: scaleX(-1);
+      filter: FlipH;
+      -ms-filter: "FlipH";
+      left: 45%; }
+    .envirabox-overlay.overlay-new-design-1-dark .envirabox-nav span {
+      width: 13px !important;
+      /*height: 13px !important;*/ }
+
+/**
+* Lightbox
+*/
+.envirabox-skin.envirabox-theme-new-design-1-dark {
+  padding: 0px !important;
+  background: none;
+  border: none;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  /**
+  * Titles
+  */ }
+  .envirabox-skin.envirabox-theme-new-design-1-dark .envirabox-title-float-wrap {
+    margin: 0;
+    color: #fff;
+    left: 0%;
+    text-align: left;
+    background-color: transparent; }
+    .envirabox-skin.envirabox-theme-new-design-1-dark .envirabox-title-float-wrap span.child {
+      border-radius: 0;
+      background-color: transparent;
+      margin-left: 0;
+      font-size: 11px;
+      padding: 2px 2px;
+      font-family: "Open Sans"; }
+  .envirabox-skin.envirabox-theme-new-design-1-dark .envirabox-close {
+    display: none; }
+  .envirabox-skin.envirabox-theme-new-design-1-dark #envirabox-thumbs li {
+    border: 0; }
+
+#envirabox-buttons.envirabox-buttons-new-design-1-dark ul {
+  background: transparent;
+  box-shadow: none; }
+#envirabox-buttons.envirabox-buttons-new-design-1-dark li {
+  border: 0; }
+#envirabox-buttons.envirabox-buttons-new-design-1-dark a {
+  background-image: url("../new-design-1-dark/images/envirabox_buttons.png");
+  border: 0 !important; }
+#envirabox-buttons.envirabox-buttons-new-design-1-dark a.btnPrev,
+#envirabox-buttons.envirabox-buttons-new-design-1-dark a.btnNext {
+  display: none; }
+
+/*#envirabox-thumbs {
+	margin-top: 35px;
+	&.bottom {
+		bottom: inherit;
+	}
+	ul li {
+		border: 0 !important;
+	}
+}
+*/

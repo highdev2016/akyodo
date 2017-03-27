@@ -1,0 +1,108 @@
+# Copyright (C) 2016 Envira Gallery - Pinterest Addon
+# This file is distributed under the same license as the Envira Gallery - Pinterest Addon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Envira Gallery - Pinterest Addon 1.0.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/envira-pinterest\n"
+"POT-Creation-Date: 2016-06-03 19:42:26+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: envira-pinterest.php:130
+msgid "Pinterest"
+msgstr ""
+
+#: envira-pinterest.php:148
+msgid "The settings below adjust the Pinterest settings for the gallery."
+msgstr ""
+
+#: envira-pinterest.php:150
+msgid "Need some help?"
+msgstr ""
+
+#: envira-pinterest.php:152
+msgid "Read the Documentation"
+msgstr ""
+
+#: envira-pinterest.php:156
+msgid "Watch a Video"
+msgstr ""
+
+#: envira-pinterest.php:164
+msgid "Enable Pin It Button?"
+msgstr ""
+
+#: envira-pinterest.php:168
+msgid ""
+"Enables or disables the Pinterest \"Pin It\" button for gallery lightbox "
+"images."
+msgstr ""
+
+#: envira-pinterest.php:173
+msgid "Pinterest Position"
+msgstr ""
+
+#: envira-pinterest.php:181
+msgid ""
+"Sets the position of the Pinterest button on the gallery lightbox images."
+msgstr ""
+
+#: envira-pinterest.php:186
+msgid "Pinterest Button Color"
+msgstr ""
+
+#: envira-pinterest.php:194
+msgid "Sets the color of the Pin It button."
+msgstr ""
+
+#: envira-pinterest.php:391
+msgid "Top Left"
+msgstr ""
+
+#: envira-pinterest.php:395
+msgid "Top Right"
+msgstr ""
+
+#: envira-pinterest.php:399
+msgid "Bottom Left"
+msgstr ""
+
+#: envira-pinterest.php:403
+msgid "Bottom Right"
+msgstr ""
+
+#: envira-pinterest.php:423
+msgid "Gray"
+msgstr ""
+
+#: envira-pinterest.php:427
+msgid "Red"
+msgstr ""
+
+#: envira-pinterest.php:431
+msgid "White"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Envira Gallery - Pinterest Addon"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Enables Pinterest \"Pin It\" buttons for Envira galleries."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Thomas Griffin"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://thomasgriffinmedia.com"
+msgstr ""

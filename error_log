@@ -1,0 +1,5 @@
+[25-Sep-2016 16:03:10 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/akyodo/dev_html/wp-signup.php on line 6
+[12-Oct-2016 06:08:27 UTC] PHP Parse error:  syntax error, unexpected 'shoffner' (T_STRING) in /home/akyodo/dev_html/wp-content/themes/minimum-pro/functions.php on line 374
+[12-Oct-2016 06:08:47 UTC] PHP Parse error:  syntax error, unexpected 'shoffner' (T_STRING) in /home/akyodo/dev_html/wp-content/themes/minimum-pro/functions.php on line 374
+[12-Oct-2016 06:09:09 UTC] PHP Parse error:  syntax error, unexpected 'shoffner' (T_STRING) in /home/akyodo/dev_html/wp-content/themes/minimum-pro/functions.php on line 374
+[12-Oct-2016 21:06:15 UTC] PHP Fatal error:  Cannot redeclare audio_link() (previously declared in /home/akyodo/dev_html/wp-content/themes/minimum-pro/functions.php:376) in /home/akyodo/dev_html/wp-content/themes/minimum-pro/functions.php on line 404

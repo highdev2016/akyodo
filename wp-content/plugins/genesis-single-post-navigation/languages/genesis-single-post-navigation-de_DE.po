@@ -1,0 +1,144 @@
+# This German Language File: Copyright (C) 2011-2012 by David Decker of deckerweb.de & genesisthemes.de
+# This file is distributed under the same license as the Genesis Single Post Navigation plugin package.
+#
+# Weitere deutsche Sprachdateien fuer Genesis Framework, Genesis Child Themes und Genesis Plugins
+# sowie WordPress Plugins und Themes sind hier zu finden:
+# --> http://deckerweb.de/sprachdateien/
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Genesis Single Post Navigation Plugin\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/genesis-single-post-navigation\n"
+"POT-Creation-Date: 2011-09-30 07:39+0100\n"
+"PO-Revision-Date: 2012-06-21 10:36+0100\n"
+"Last-Translator: David Decker <deckerweb.mobil@googlemail.com>\n"
+"Language-Team: DECKERWEB <deckerweb.mobil@googlemail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#@ genesis-single-post-navigation
+#. translators: plugin header field 'Name'
+#: genesis-single-post-navigation.php:0
+#: includes/gspn-admin.php:101
+#: includes/gspn-admin.php:112
+msgid "Genesis Single Post Navigation"
+msgstr "Genesis Single Post Navigation"
+
+#@ genesis-single-post-navigation
+#. translators: plugin header field 'PluginURI'
+#: genesis-single-post-navigation.php:0
+msgid "http://genesisthemes.de/en/wp-plugins/genesis-single-post-navigation/"
+msgstr "http://genesisthemes.de/plugins/genesis-single-post-navigation/"
+
+#@ genesis-single-post-navigation
+#. translators: plugin header field 'Author'
+#: genesis-single-post-navigation.php:0
+msgid "David Decker - DECKERWEB"
+msgstr "David Decker - DECKERWEB.de"
+
+#@ genesis-single-post-navigation
+#. translators: plugin header field 'AuthorURI'
+#: genesis-single-post-navigation.php:0
+msgid "http://deckerweb.de/"
+msgstr "http://deckerweb.de/"
+
+#@ genesis-single-post-navigation
+#: genesis-single-post-navigation.php:78
+#, php-format
+msgid "Sorry, you can&rsquo;t activate unless you have installed the %1$sGenesis Framework%2$s"
+msgstr "Hinweis: Dieses Plugin kann <em>nicht</em> aktiviert werden, solange das %1$sGenesis Framework%2$s nicht installiert ist."
+
+#@ genesis-single-post-navigation
+#. translators: plugin header field 'Description'
+#: genesis-single-post-navigation.php:0
+msgid "This plugin adds next & previous navigation links on single posts to have some kind of a browse post by post nav style. You can customize link direction and some parameters via your child theme. The plugin requires the use of the Genesis Theme Framework."
+msgstr "Dieses Plugin fügt vorwärts- &amp; zurück-Navigationslinks bei einzelnen Artikeln hinzu. Dies geschieht so, dass man ähnlich wie bei einem Buch Artikel blättern kann. Die Linkrichtung und weitere Parameter können via Child Theme angepasst werden. Dieses Plugin erfordert das Genesis Theme Framework."
+
+#@ genesis-single-post-navigation
+#: includes/gspn-admin.php:49
+#: includes/gspn-admin.php:107
+msgid "FAQ"
+msgstr "FAQ - Häufige Fragen"
+
+#@ genesis-single-post-navigation
+#: includes/gspn-admin.php:50
+#: includes/gspn-admin.php:107
+msgid "Support"
+msgstr "Hilfe & Unterstützung (Support)"
+
+#@ genesis-single-post-navigation
+#: includes/gspn-admin.php:52
+#: includes/gspn-admin.php:107
+msgid "Donate"
+msgstr "Spenden"
+
+#@ genesis-single-post-navigation
+#. translators: plugin header field 'Version'
+#: genesis-single-post-navigation.php:0
+msgid "1.5"
+msgstr "1.5"
+
+#@ genesis-single-post-navigation
+#: includes/gspn-admin.php:51
+#: includes/gspn-admin.php:107
+msgid "Translations"
+msgstr "Übersetzungen"
+
+#@ genesis-single-post-navigation
+#: includes/gspn-admin.php:101
+msgid "Plugin"
+msgstr "Plugin"
+
+#@ genesis-single-post-navigation
+#: includes/gspn-admin.php:106
+msgid "Important plugin links:"
+msgstr "Wichtige Plugin-Links:"
+
+#@ genesis-single-post-navigation
+#: includes/gspn-admin.php:107
+msgid "Plugin Homepage"
+msgstr "Plugin-Webseite"
+
+#@ genesis-single-post-navigation
+#: includes/gspn-admin.php:118
+msgid "More about the plugin author"
+msgstr "Mehr über den Plugin-Autor"
+
+#@ genesis-single-post-navigation
+#: includes/gspn-admin.php:119
+msgid "Social:"
+msgstr "Vernetzen:"
+
+#@ genesis-single-post-navigation
+#: includes/gspn-admin.php:120
+msgid "at WordPress.org"
+msgstr "bei WordPress.org"
+
+#@ genesis-single-post-navigation
+#: includes/gspn-frontend.php:74
+msgid "Previous post:"
+msgstr "Vorheriger Beitrag:"
+
+#@ genesis-single-post-navigation
+#: includes/gspn-frontend.php:79
+msgid "Next post:"
+msgstr "Nächster Beitrag:"
+
+#@ genesis-single-post-navigation
+#: includes/gspn-admin.php:103
+msgid "No options page - just have a look at your single posts"
+msgstr "Keine Einstellungen-Seite - einfach die Blog-Beiträge/ Artikel anschauen"
+
+#@ genesis-single-post-navigation
+#: includes/gspn-admin.php:104
+msgid "Code snippets for customizing &amp; branding"
+msgstr "Code-Schnipsel fürs Anpassen und Branden des Plugins"
+

@@ -1,0 +1,23 @@
+/**
+* Quick Edit - Show Password Option
+*/
+body.post-type-envira,
+body.post-type-envira_album {
+	td.colspanchange {
+		/**
+		* Left Col
+		*/
+		fieldset.inline-edit-col-left {
+			div.inline-edit-col {
+				/* Password/Private */
+				.inline-edit-group {
+					display: block;
+					
+					label {
+						display: block;
+					}
+				}
+			}
+		}
+	}
+}

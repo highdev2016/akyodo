@@ -1,0 +1,85 @@
+/**
+ * @package:		WordPress
+ * @subpackage:		Admin Bar Button Plugin
+ * @description:	CSS for use on the front end (on the 'adminBarButton' jQuery widget)
+ */
+
+/**
+ * -----------------------------------------------------------------------------
+ *	1.0	Admin bar button
+ *		1.1	Button box
+ *		1.2	Button text
+ *	2.0	WordPress admin bar
+ *		2.1	'Hide' button
+ *		2.2	'Hide' button icon
+ * -----------------------------------------------------------------------------
+ */
+
+
+/**
+ * 1.0	Admin bar button
+ * -----------------------------------------------------------------------------
+ */
+
+	/**
+	 * 1.1	Button box
+	 * -----------------------------------------------------------------------------
+	 */
+
+	#abb-wrap{	
+		background-repeat:	repeat;
+		cursor:				pointer;
+		height:				32px;
+		position:			fixed;
+		z-index:			100000;
+	}
+	@media screen and (max-width: 782px){
+		#abb-wrap{
+			height:	46px;
+		}
+	}
+
+	/**
+	 * 1.2	Button text
+	 * -----------------------------------------------------------------------------
+	 */
+
+	#abb-wrap .button-text{
+		font-family: 	"Open Sans",sans-serif;
+		font-size:		13px;
+		line-height: 	32px;
+		margin:			0 20px;
+		vertical-align: top;
+	}
+	@media screen and (max-width: 782px){
+		#abb-wrap .button-text{
+			font-size:		20px;
+			line-height:	46px;
+		}
+	}
+
+
+/**
+ * 2.0	WordPress admin bar
+ * -----------------------------------------------------------------------------
+ */
+
+	/**
+	 * 2.1	'Hide' button
+	 * -----------------------------------------------------------------------------
+	 */
+	 
+	@media screen and (max-width: 782px){
+		#wpadminbar #wp-admin-bar-close{
+			display:	block;
+		}
+	}
+
+	/**
+	 * 2.2	'Hide' button icon
+	 * -----------------------------------------------------------------------------
+	 */
+	 
+	#wpadminbar #wp-admin-bar-close .ab-icon:before{
+		top:		3px;
+	}

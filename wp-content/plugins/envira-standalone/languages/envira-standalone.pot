@@ -1,0 +1,110 @@
+# Copyright (C) 2016 Envira Gallery - Standalone Addon
+# This file is distributed under the same license as the Envira Gallery - Standalone Addon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Envira Gallery - Standalone Addon 1.1.3.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/envira-"
+"standalone\n"
+"POT-Creation-Date: 2016-09-12 11:32:07+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: envira-standalone.php:115
+msgid ""
+"The <strong>%s</strong> requires Envira Gallery 1.0.9 or later to work. "
+"Please update Envira Gallery to use this addon."
+msgstr ""
+
+#: envira-standalone.php:215 envira-standalone.php:342
+msgid "Standalone"
+msgstr ""
+
+#: envira-standalone.php:252
+msgid "The settings below adjust the Standalone settings."
+msgstr ""
+
+#: envira-standalone.php:254
+msgid "Need some help?"
+msgstr ""
+
+#: envira-standalone.php:256
+msgid "Read the Documentation"
+msgstr ""
+
+#: envira-standalone.php:260
+msgid "Watch a Video"
+msgstr ""
+
+#: envira-standalone.php:268
+msgid "Template"
+msgstr ""
+
+#: envira-standalone.php:285
+msgid ""
+"By default we use single.php, which is the default template of the single "
+"blog post in your theme."
+msgstr ""
+
+#: envira-standalone.php:289
+msgid ""
+"Your current theme does not have any custom templates. If you want to use a "
+"template besides the default, you need to add a custom template to your "
+"theme."
+msgstr ""
+
+#: envira-standalone.php:371
+msgid "Gallery Slug "
+msgstr ""
+
+#: envira-standalone.php:376
+msgid "The slug to prefix to all Envira Galleries."
+msgstr ""
+
+#: envira-standalone.php:382
+msgid "Album Slug "
+msgstr ""
+
+#: envira-standalone.php:386
+msgid "The slug to prefix to all Envira Albums."
+msgstr ""
+
+#: envira-standalone.php:391
+msgid "Save"
+msgstr ""
+
+#: envira-standalone.php:516
+msgid "The nonce field is invalid."
+msgstr ""
+
+#: envira-standalone.php:531
+msgid "Slug updated successfully!"
+msgstr ""
+
+#: envira-standalone.php:546
+msgid ""
+"The slug is either missing, contains invalid characters or used by a Post "
+"Type. Please enter a different slug."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Envira Gallery - Standalone Addon"
+msgstr ""
+
+#. #-#-#-#-#  envira-standalone.pot (Envira Gallery - Standalone Addon 1.1.3.1)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  envira-standalone.pot (Envira Gallery - Standalone Addon 1.1.3.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Enables unique URL access points for Envira galleries."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Envira Gallery Team"
+msgstr ""

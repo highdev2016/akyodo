@@ -1,0 +1,97 @@
+/**
+ * Plugin: Genesis Single Post Navigation
+ *
+ * @author	David Decker
+ *
+ * @since	1.0
+ * @version	1.5
+ *
+ * @copyright	Copyright 2011-2012, David Decker - DECKERWEB
+ * @license	GPLv2 (or later)
+ * @link	http://deckerweb.de/
+ * @package	genesis-single-post-navigation
+ */
+
+/* Table of Contents
+
+* Main Container for the Prev & Next Links
+* Prev & Next Links Style
+* CSS3 Media Query
+
+*/
+
+/* Main Container for the Prev & Next Links
+------------------------------------------------------------ */
+
+.gspn-area {
+}
+
+
+/* Prev & Next Links Style
+------------------------------------------------------------ */
+
+#gspn-prevpost a,
+#gspn-nextpost a,
+#gspn-prevpost-reverse a,
+#gspn-nextpost-reverse a {
+	border-top: 1px dotted #ccc;  /* top border for link container */
+	border-bottom: 1px dotted #ccc;  /* bottom border for link container */
+	color: #999;  /* link color */
+	font-size: 100px;
+	line-height: 105px;
+	padding-bottom: 15px;
+	position: fixed;
+	text-align: center;
+	top: 42%;
+	vertical-align: middle;
+	width: 80px;
+}
+
+#gspn-prevpost a:hover,
+#gspn-nextpost a:hover,
+#gspn-prevpost-reverse a:hover,
+#gspn-nextpost-reverse a:hover {
+	color: #666;  /* mouse hover link color */
+	text-decoration: none;
+}
+
+/* Default direction: previous post on left side */
+#gspn-prevpost a {
+	right: 10px;
+}
+
+/* Default direction: next post on right side */
+#gspn-nextpost a {
+	left: 10px;
+}
+
+/* Custom, reversed direction: previous post on left side (book-like) */
+#gspn-prevpost-reverse a {
+	left: 10px;
+}
+
+/* Custom, reversed direction: next post on right side (book-like) */
+#gspn-nextpost-reverse a {
+	right: 10px;
+}
+
+_#gspn-prevpost a,
+_#gspn-nextpost a,
+_#gspn-prevpost-reverse a,
+_#gspn-nextpost-reverse a {
+	position: absolute;
+}
+
+
+/* CSS3 Media Query - Hide from smaller displays/ viewports
+------------------------------------------------------------ */
+
+@media only screen and (max-width: 1100px) {
+	.gspn-area,
+	#gspn-prevpost,
+	#gspn-nextpost,
+	#gspn-prevpost-reverse,
+	#gspn-nextpost-reverse {
+		display: none !important;
+	}
+}

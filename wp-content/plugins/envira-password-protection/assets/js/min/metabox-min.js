@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){var n=function(n){"password"==n?$("#envira-password-protection").fadeIn():$("#envira-password-protection").fadeOut()};$("#envira-password-protection").length>0&&(n($("input[name=visibility]:checked").val()),$("input[name=visibility]").on("change",function(){n($(this).val())}))});

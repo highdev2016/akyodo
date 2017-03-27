@@ -1,0 +1,96 @@
+/**
+ * @package:		WordPress
+ * @subpackage:		Admin Bar Button Plugin
+ * @description:	CSS for use in the admin area (on the Admin Bar Button settings page)
+ */
+
+/**
+ * -----------------------------------------------------------------------------
+ *	1.0	Tabs
+ *		1.1	Tab buttons
+ *		1.2	Tab content
+ *	2.0	Control
+ *	3.0	Tips
+ *	4.0	Buttons
+ * -----------------------------------------------------------------------------
+ */
+
+
+/**
+ * 1.0	Tabs
+ * -----------------------------------------------------------------------------
+ */
+
+	/**
+	 * 1.1	Tab buttons
+	 * -----------------------------------------------------------------------------
+	 */
+	
+	#admin-bar-button-page .nav-tab:not(.nav-tab-active){
+		cursor:	pointer;
+	}
+	
+	/**
+	 * Prevent the bottom border of a tab disapearing when hovered on a smaller screen
+	 */
+	@media screen and (max-width: 600px){
+		#admin-bar-button-page .nav-tab-active:hover{
+			border-bottom-color: #CCCCCC;
+		}
+	}
+	
+	/**
+	 * 1.2	Tab content
+	 * -----------------------------------------------------------------------------
+	 */
+	
+	/**
+	 * Show/hide tab content as required
+	 */
+	#admin-bar-button-page .nav-tab-content{
+		display:	none;
+	}
+	#admin-bar-button-page .nav-tab-content-active{
+		display:	block;
+	}
+	
+
+/**
+ * 3.0	Controls
+ * -----------------------------------------------------------------------------
+ */
+
+input[type="number"]{
+    -moz-appearance:	textfield;
+}
+
+input[type="number"]::-webkit-inner-spin-button, 
+input[type="number"]::-webkit-outer-spin-button{ 
+	-webkit-appearance:	none; 
+	margin:				0; 
+}
+
+
+/**
+ * 4.0	Tips
+ * -----------------------------------------------------------------------------
+ */
+ 
+#admin-bar-button-page .tips{
+	display: inline-block;
+	font-style:	italic;
+	margin-left: 10px;
+	vertical-align: middle;
+}
+#admin-bar-button-page .tip{
+	display: block;
+}
+
+
+/**
+ * 3.0	Buttons
+ * -----------------------------------------------------------------------------
+ */
+#admin-bar-button-page #delete{
+	margin-left:	10px;
+}

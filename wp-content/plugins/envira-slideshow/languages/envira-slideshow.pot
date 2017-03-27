@@ -1,0 +1,80 @@
+# Copyright (C) 2016 Envira Gallery - Slideshow Addon
+# This file is distributed under the same license as the Envira Gallery - Slideshow Addon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Envira Gallery - Slideshow Addon 1.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/envira-slideshow\n"
+"POT-Creation-Date: 2016-08-26 15:39:55+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/admin/metaboxes.php:59
+msgid "Slideshow"
+msgstr ""
+
+#: includes/admin/metaboxes.php:97
+msgid "Slideshow Lightbox Settings"
+msgstr ""
+
+#: includes/admin/metaboxes.php:99
+msgid "The settings below adjust the Slideshow options for the Lightbox output."
+msgstr ""
+
+#: includes/admin/metaboxes.php:101
+msgid "Need some help?"
+msgstr ""
+
+#: includes/admin/metaboxes.php:103
+msgid "Read the Documentation"
+msgstr ""
+
+#: includes/admin/metaboxes.php:107
+msgid "Watch a Video"
+msgstr ""
+
+#: includes/admin/metaboxes.php:115
+msgid "Enable Gallery Slideshow?"
+msgstr ""
+
+#: includes/admin/metaboxes.php:119
+msgid "Enables or disables the gallery lightbox slideshow."
+msgstr ""
+
+#: includes/admin/metaboxes.php:124
+msgid "Autoplay the Slideshow?"
+msgstr ""
+
+#: includes/admin/metaboxes.php:128
+msgid "Enables or disables autoplaying the slideshow on lightbox open."
+msgstr ""
+
+#: includes/admin/metaboxes.php:133
+msgid "Slideshow Speed"
+msgstr ""
+
+#: includes/admin/metaboxes.php:137
+msgid "Sets the speed of the gallery lightbox slideshow."
+msgstr ""
+
+#: includes/global/shortcode.php:105 includes/global/shortcode.php:128
+msgid "Start Slideshow"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Envira Gallery - Slideshow Addon"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Enables slideshows for Envira galleries."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Envira Gallery Team"
+msgstr ""

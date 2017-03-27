@@ -1,0 +1,95 @@
+# This file is distributed under the same license as the Genesis Single Post Navigation package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2012-06-21 08:35:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Genesis Single Post Navigation\n"
+
+#: genesis-single-post-navigation.php:0 includes/gspn-admin.php:101
+#: includes/gspn-admin.php:112
+msgid "Genesis Single Post Navigation"
+msgstr ""
+
+#: genesis-single-post-navigation.php:0
+msgid "http://genesisthemes.de/en/wp-plugins/genesis-single-post-navigation/"
+msgstr ""
+
+#: genesis-single-post-navigation.php:0
+msgid "David Decker - DECKERWEB"
+msgstr ""
+
+#: genesis-single-post-navigation.php:0
+msgid "http://deckerweb.de/"
+msgstr ""
+
+#: genesis-single-post-navigation.php:78
+msgid "Sorry, you can&rsquo;t activate unless you have installed the %1$sGenesis Framework%2$s"
+msgstr ""
+
+#: genesis-single-post-navigation.php:0
+msgid "This plugin adds next & previous navigation links on single posts to have some kind of a browse post by post nav style. You can customize link direction and some parameters via your child theme. The plugin requires the use of the Genesis Theme Framework."
+msgstr ""
+
+#: includes/gspn-admin.php:49 includes/gspn-admin.php:107
+msgid "FAQ"
+msgstr ""
+
+#: includes/gspn-admin.php:50 includes/gspn-admin.php:107
+msgid "Support"
+msgstr ""
+
+#: includes/gspn-admin.php:52 includes/gspn-admin.php:107
+msgid "Donate"
+msgstr ""
+
+#: genesis-single-post-navigation.php:0
+msgid "1.5"
+msgstr ""
+
+#: includes/gspn-admin.php:51 includes/gspn-admin.php:107
+msgid "Translations"
+msgstr ""
+
+#: includes/gspn-admin.php:101
+msgid "Plugin"
+msgstr ""
+
+#: includes/gspn-admin.php:106
+msgid "Important plugin links:"
+msgstr ""
+
+#: includes/gspn-admin.php:107
+msgid "Plugin Homepage"
+msgstr ""
+
+#: includes/gspn-admin.php:118
+msgid "More about the plugin author"
+msgstr ""
+
+#: includes/gspn-admin.php:119
+msgid "Social:"
+msgstr ""
+
+#: includes/gspn-admin.php:120
+msgid "at WordPress.org"
+msgstr ""
+
+#: includes/gspn-frontend.php:74
+msgid "Previous post:"
+msgstr ""
+
+#: includes/gspn-frontend.php:79
+msgid "Next post:"
+msgstr ""
+
+#: includes/gspn-admin.php:103
+msgid "No options page - just have a look at your single posts"
+msgstr ""
+
+#: includes/gspn-admin.php:104
+msgid "Code snippets for customizing &amp; branding"
+msgstr ""

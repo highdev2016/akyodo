@@ -1,0 +1,4 @@
+Version 4.1 -
+
+Prevent 'active' tab being lost on page refresh (but should be lost when the user navigates away from the page or closes the browser tab/window).
+Fix animation when the Admin Bar Button is displayed in the 'Top middle' or 'Bottom middle' position (half of the button instantly disappears because of the 'transform' CSS).
