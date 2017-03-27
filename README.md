@@ -1,0 +1,2 @@
+# akyodo
+Akyodo site (wordpress)
